@@ -194,3 +194,9 @@ body {
     padding-right: 18px;
   }
 }
+.footer {
+  margin-top: 40px;
+  opacity: .45;
+  font-size: .8rem;
+  text-align: center;
+}
