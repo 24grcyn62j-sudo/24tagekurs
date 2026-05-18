@@ -1,9 +1,0 @@
-{
-  "name": "24 Tage Persönlichkeitskurs",
-  "short_name": "24-Tage-Kurs",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#06384b",
-  "theme_color": "#06384b",
-  "icons": []
-}
